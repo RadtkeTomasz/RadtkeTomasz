@@ -1,7 +1,7 @@
 ### Hi! 👋 <br>
 My name is Tomasz Radtke 😄 <br>
 
-🌱 I’m currently learning C#, EntityFramework Core and Webflow <br>
+🌱 I’m currently learning C#, SQL, EntityFramework Core and Webflow <br>
 📫 You can reach out to me through email: tomeas23@gmail.com
 
 ⚡ Lately I finished work on my biggest project, TradeArt. It is now available on Azure Cloud.
