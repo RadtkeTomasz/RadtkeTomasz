@@ -1,7 +1,7 @@
 ### Hi! 👋 <br>
 My name is Tomasz Radtke 😄 <br>
 
-🌱 I’m currently learning C#, SQL, Design Pattersn, 
+🌱 I’m currently learning C#, SQL, Design Patterns, 
  Best Practices, SignalR, EntityFramework Core and Webflow <br>
 📫 You can reach out to me through email: tomeas23@gmail.com
 
