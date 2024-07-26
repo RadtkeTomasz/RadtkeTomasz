@@ -6,6 +6,8 @@ My name is Tomasz Radtke 😄 <br>
 📫 You can reach out to me through email: tomeas23@gmail.com
 
 ⚡ Lately I am finishing up work on my biggest project, BlueCMS - a custom, AI powered Content Management System for my personal Clients!⚡
+
+I ahve successfully completed swveral commercial projects as a freelancer.
 <!--
 **RadtkeTomasz/RadtkeTomasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
