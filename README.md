@@ -7,7 +7,7 @@ My name is Tomasz Radtke 😄 <br>
 
 ⚡ Lately I am finishing up work on my biggest project, BlueCMS - a custom, AI powered Content Management System for my personal Clients!⚡
 
-I ahve successfully completed swveral commercial projects as a freelancer.
+I have successfully completed several commercial projects as a part of Codeblue Solutions Team.
 <!--
 **RadtkeTomasz/RadtkeTomasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
