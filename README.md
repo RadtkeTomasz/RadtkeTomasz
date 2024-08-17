@@ -2,7 +2,7 @@
 My name is Tomasz Radtke 😄 <br>
 
 🌱 I’m currently learning C#, Typescript, SQL, Design Patterns, 
- Best Practices, SignalR, EntityFramework Core and Angular <br>
+ Best Practices, SignalR, EntityFramework Core, Angular and Figma <br>
 📫 You can reach out to me through email: tomeas23@gmail.com
 
 ⚡ Lately I am finishing up work on my biggest project, BlueCMS - a custom, AI powered Content Management System for my personal Clients!⚡
