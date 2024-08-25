@@ -9,7 +9,7 @@ My name is Tomasz Radtke 😄 <br>
 
 I have successfully completed several commercial projects as a part of Codeblue Solutions Team.
 
-I am working on a nation wide platform for small business owners to Network their local costomers and advertise their services.
+I am working on a nation wide platform for small business owners to better network with their local customers and other business owners as well as advertise their services.
 <!--
 **RadtkeTomasz/RadtkeTomasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
