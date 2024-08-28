@@ -1,7 +1,7 @@
 ### Hi! 👋 <br>
 My name is Tomasz Radtke 😄 <br>
 
-🌱 I’m currently learning C#, Typescript, SQL, Design Patterns, 
+🌱 I’m currently working in NET and Angular, C#, Typescript. Learning SQL, Design Patterns, 
  Best Practices, SignalR, EntityFramework Core, Angular and Figma <br>
 📫 You can reach out to me through email: tomeas23@gmail.com
 
