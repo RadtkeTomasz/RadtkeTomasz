@@ -1,9 +1,11 @@
 ### Hi! 👋 <br>
 My name is Tomasz Radtke 😄 <br>
 
-🌱 I’m currently working in NET and Angular, C#, Typescript. Learning SQL, Design Patterns, 
- Best Practices, SignalR, EntityFramework Core, Angular and Figma <br>
-📫 You can reach out to me through email: tomeas23@gmail.com
+🌱 I’m currently working in NET and Angular, C#, Typescript.
+Using .NET Aspire, Kubernetes, RabbitMQ, MassTransit and CI/CD to create side projects for education.
+Learning SQL, Design Patterns, 
+ Best Practices, Architecture of Enterprise grade systems and UI/UX design <br>
+📫 You can reach out to me through email: tomasz.radtke.net@gmail.com
 
 ⚡ Lately I am finishing up work on my biggest project, BlueCMS - a custom, AI powered Content Management System for my personal Clients!⚡
 
